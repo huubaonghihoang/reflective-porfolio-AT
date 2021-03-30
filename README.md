@@ -30,7 +30,8 @@ for week 1, I also read about the standing ovation model, the collective behavio
 ### **what were the challenges I have encountered and how well did I handle them?**
 
 - i was struggling with using github and starting my reflective portfolio. Asking for help from the tutor and my family members assisted me to start my weekly portfolio easily. 
-- I aso self-taught github markdown syntax and the basis of Python's coding. 
+- I aso self-taught github markdown syntax and the basis of Python's coding. starting something new is always hard, however, I did a pretty good job in researching and asking for help from my family members
+
 ### **what theory proved to be useful? what have I learnt from this?**
 
 
@@ -41,4 +42,7 @@ I realized that a complex system in our world are normally adaptive as most syst
 
 ### **what are the perceived strenths and weaknesses that I have observed?**
 ### **what were the challenges I have encountered and how well did I handle them?**
+
+- I did not realise that github was not an auto-save program and lost all of my previous content. therefore, I was advised to write my weekly reflective reports in a google docs and copy the details down after as they would be auto-saved and I will not lose any of my content even if I forget to commit those changes
+
 ### **what theory proved to be useful? what have I learnt from this?**
