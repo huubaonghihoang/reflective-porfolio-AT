@@ -14,7 +14,7 @@ do not adapt to the environment | they often adapt to changing environment
 the ways they work are predictable (pattern) | their operations are unpredictable
 e.g. a car, machine,... | e.g. living animals, nature disasters, stocks,...
 
-- complex adaptive system
+- complex adaptive system is a system made up of many individual parts or agents and if there are changes to the elements or the environment, the system will react/adapt to those changes
 
 for week 1, I also read about the standing ovation model, the collective behaviour of bees and a model of two cities. for each of these models, I looked in details the relationships between their elements, how the system's environment affect those interactions and also if those systems' behaviors are easy or hard to predict. 
 
@@ -28,4 +28,7 @@ for week 1, I also read about the standing ovation model, the collective behavio
 
 ### **what are the perceived strenths and weaknesses that I have observed?**
 ### **what were the challenges I have encountered and how well did I handle them?**
+
+- i was struggling with using github and starting my reflective portfolio. Asking for help from the tutor and my family members assisted me to start my weekly portfolio easily. 
+- I aso self-taught github markdown syntax and the basis of Python's coding. 
 ### **what theory proved to be useful? what have I learnt from this?**
