@@ -32,3 +32,13 @@ for week 1, I also read about the standing ovation model, the collective behavio
 - i was struggling with using github and starting my reflective portfolio. Asking for help from the tutor and my family members assisted me to start my weekly portfolio easily. 
 - I aso self-taught github markdown syntax and the basis of Python's coding. 
 ### **what theory proved to be useful? what have I learnt from this?**
+
+
+## Week 2
+### **what have I learnt this week?**
+### **what insight have I gained?**
+I realized that a complex system in our world are normally adaptive as most systems in our world are. However, if the world followed the pool table analogy where each event is a result of the previous, then the fate of the world would be predetermined, thus they would become a complicated system
+
+### **what are the perceived strenths and weaknesses that I have observed?**
+### **what were the challenges I have encountered and how well did I handle them?**
+### **what theory proved to be useful? what have I learnt from this?**
