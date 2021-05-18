@@ -178,4 +178,4 @@ The prisoner's dilemma is also applied into everyday life regularly. The concept
 ### **what insight have I gained?**
 In order to solve collective actions and common resource problems, the context of the struggle is needed. The mathematical model alone will not be an ultimate solution, in fact, it will not be enough to answer the problem.
 ### **what theory proved to be useful? what have I learnt from this?**
-The COlonel Blotto Game can be applied into the world and how each nation deal with the COVID-19 pandemic. There is no ultimate cure for this pandemic, however, the restrictions that each nation applies will affect the national result of the pandemic. The better the restrictions and rules a nation has, the lower cases number they would get.
+The Colonel Blotto Game can be applied into the world and how each nation deal with the COVID-19 pandemic. There is no ultimate cure for this pandemic, however, the restrictions that each nation applies will affect the national result of the pandemic. The better the restrictions and rules a nation has, the lower cases number they would get.
